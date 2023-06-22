@@ -31,56 +31,65 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="2"
-   inkscape:cx="92.75"
-   inkscape:cy="77.5"
+   inkscape:cx="77.25"
+   inkscape:cy="107.5"
    inkscape:window-width="1366"
    inkscape:window-height="697"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg32258" />
-    <g
-   id="g32663"><path
-     d="m 96.71768,35.634762 c 7.2e-4,20.278398 -11.365072,20.6216 -9.643868,33.682346 1.722227,13.060156 11.365907,13.060979 11.366037,25.778103 -4.61e-4,12.716099 2.436031,23.009599 -7.046243,25.205149 -9.482882,2.19513 -18.201426,1.5729 -27.392504,1.5731 -9.192722,1e-5 -17.91203,0.62195 -27.394412,-1.57325 -9.482382,-2.1952 -7.046272,-12.48839 -7.046402,-25.205515 -1.29e-4,-12.717124 9.642961,-12.717324 11.365533,-25.77745 1.720959,-13.060559 -9.643206,-13.403981 -9.643926,-33.682383 3.03e-4,-20.27898 20.550111,-16.15462 32.718267,-16.15407 12.167566,-4.6e-4 32.717821,-4.12502 32.718541,16.15338 z"
-     style="fill:#1d8cc8;fill-rule:nonzero;stroke-width:1.18056"
+   inkscape:current-layer="svg32258"
+   showguides="false" />
+    
+<g
+   id="g53038"><path
      id="path32134"
-     sodipodi:nodetypes="cccccssccccc" /><g
-     transform="matrix(1.618541,-2.9046e-6,2.9046e-6,1.618541,-77.477519,35.590663)"
-     id="g32140">
+     style="fill:#1d8cc8;fill-rule:nonzero;stroke-width:1.18056"
+     d="m 76.12207,114.69515 c 18.684324,0 22.311429,-6.97203 22.311524,-15.433009 1.53e-4,-13.66865 -9.419922,-19.436574 -9.419922,-32.609797 0,-13.189997 7.699219,-15.786201 7.699219,-29.992452 0,-14.849268 -9.288564,-17.41783 -32.716798,-17.41783 -23.428234,0 -32.714843,2.616081 -32.714843,17.41783 0,14.206251 7.699219,16.802455 7.699219,29.992452 0,13.173223 -9.420076,18.941147 -9.419922,32.609797 9.5e-5,8.460979 3.627199,15.433009 22.311523,15.433009 z"
+     sodipodi:nodetypes="sssszsssss" /><g
+     transform="matrix(1.618541,-2.7144454e-6,2.9046e-6,1.5125804,-77.477519,34.767227)"
+     id="g32140"
+     style="stroke-width:1.03443">
             <path
-   d="m 92.852,-9.191 c 0,0.785 -2.437,1.42 -5.442,1.42 -3.005,0 -5.441,-0.635 -5.441,-1.42 v -8.365 c 0,-0.785 2.436,-1.422 5.441,-1.422 3.005,0 5.442,0.637 5.442,1.422 z"
-   style="fill:#ecdc51;fill-rule:nonzero"
-   id="path32136" />
-            <ellipse
-   cx="87.410004"
-   cy="-17.556"
-   rx="5.441"
-   ry="1.421"
-   style="fill:#f5af3c"
-   id="ellipse32138" />
+   d="m 92.278594,-9.191001 c 0,1.069979 -0.885923,1.8290488 -4.86873,1.8290493 -3.982807,4e-7 -4.867464,-0.7590612 -4.867464,-1.8290402 l 2e-6,-8.3650071 c 0,-0.785 1.048481,-1.422002 4.867458,-1.422001 3.818977,1e-6 4.868736,0.636999 4.868736,1.421999 z"
+   style="fill:#ecdc51;fill-rule:nonzero;stroke-width:1.03443"
+   id="path32136"
+   sodipodi:nodetypes="szsssss" />
+            <path
+   id="ellipse32138"
+   style="fill:#f5af3c;stroke-width:1.03443"
+   d="m 92.277705,-17.556001 c -10e-7,0.784797 -1.048886,1.421002 -4.867839,1.421001 -3.818953,-10e-7 -4.867461,-0.636202 -4.86746,-1.420999 -10e-7,-0.784797 1.048506,-1.421002 4.867459,-1.421001 3.818953,1e-6 4.86784,0.636202 4.86784,1.420999 z"
+   sodipodi:nodetypes="sssss" />
         </g><g
      transform="matrix(1.1805553,-2.237e-6,2.237e-6,1.1805553,-39.1926,37.506702)"
      id="g32144">
             <path
-   d="m 103.011,16.129 c 0,-2.146 -1.743,-3.889 -3.889,-3.889 H 75.698 c -2.146,0 -3.889,1.743 -3.889,3.889 v 21.52 c 0,2.146 1.743,3.889 3.889,3.889 h 23.424 c 2.146,0 3.889,-1.743 3.889,-3.889 z"
+   d="M 103.011,15.493706 C 103.011,13.221001 101.268,12.24 99.122,12.24 l -23.424,0 c -2.146,0 -3.888999,0.981005 -3.888999,3.253709 l -2e-6,22.790585 c 0,2.272705 1.743001,3.253706 3.889001,3.253706 l 23.424,0 c 2.146,0 3.889,-0.981005 3.889,-3.253709 z"
    style="fill:#ffffff"
-   id="path32142" />
+   id="path32142"
+   sodipodi:nodetypes="sssssssss" />
         </g><g
-     transform="matrix(1.1805183,0.00933181,-0.00933181,1.1805183,60.374239,96.877748)"
-     id="g32148">
+     transform="matrix(1.5403086,0.01217589,-0.01217589,1.5403086,62.893868,36.04879)"
+     id="g32148"
+     style="stroke-width:0.766417">
             <text
    x="-11.702"
    y="0"
-   style="font-weight:700;font-size:9.925px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#ffca31"
-   id="text32146">Super</text>
+   style="font-weight:700;font-size:9.925px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#ffca31;stroke-width:0.766417"
+   id="text32146"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';stroke-width:0.766417"
+     id="tspan51942">Super</tspan></text>
         </g><g
-     transform="matrix(1.1805183,0.00933181,-0.00933181,1.1805183,45.699156,108.7931)"
+     transform="matrix(1.1805183,0.00933181,-0.00933181,1.1805183,47.891431,49.042577)"
      id="g32152">
             <text
-   x="4.84548"
-   y="-0.57716388"
-   style="font-weight:700;font-size:9.925px;font-family:ComicNeue-Bold, 'Comic Neue';fill:#ffca31"
-   id="text32150">Soft</text>
+   x="2.1281254"
+   y="-1.2190504"
+   style="font-weight:700;font-size:12.9499px;line-height:0;font-family:ComicNeue-Bold, 'Comic Neue';letter-spacing:0px;fill:#ffca31;stroke-width:1"
+   id="text32150"
+   dx="0 0 0 0.39143196"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';stroke-width:1"
+     id="tspan51944">Soft</tspan></text>
         </g><g
      id="g32254"
      transform="matrix(1.02239,-0.59028,0.59028,1.02239,-39.1926,37.5067)">
@@ -282,5 +291,37 @@
    style="fill:#e48c15;fill-rule:nonzero"
    id="path32250" />
             </g>
-        </g></g>
-</svg>
+        </g><text
+     xml:space="preserve"
+     style="font-size:666.667px;font-family:'Briem Hand Test11';-inkscape-font-specification:'Briem Hand Test11';fill:#ffffff;stroke-width:5.66929;stroke-linecap:round"
+     x="112"
+     y="111.75"
+     id="text51540"><tspan
+       sodipodi:role="line"
+       id="tspan51538"
+       x="112"
+       y="111.75" /></text><g
+     transform="matrix(1.1805183,0.00933181,-0.00933181,1.1805183,62.138348,106.31288)"
+     id="g51940">
+            
+        </g><g
+     transform="matrix(1.1805183,0.00933181,-0.00933181,1.1805183,47.891431,100.9924)"
+     id="g52853">
+            <text
+   x="-3.6900275"
+   y="-1.1730589"
+   style="font-weight:700;font-size:12.9499px;line-height:0;font-family:ComicNeue-Bold, 'Comic Neue';letter-spacing:0px;fill:#ffca31;stroke-width:1"
+   id="text52851"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';stroke-width:1"
+     id="tspan52849">Lotion</tspan></text>
+        </g><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.60016px;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue Bold';fill:#ffca31;fill-opacity:1;stroke-width:5.66931;stroke-linecap:round"
+     x="44.729939"
+     y="107.42387"
+     id="text52959"><tspan
+       sodipodi:role="line"
+       id="tspan52957"
+       x="44.729939"
+       y="107.42387"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Comic Neue';-inkscape-font-specification:'Comic Neue';stroke-width:5.66931">13.5 FL OZ/ 400mL</tspan></text></g></svg>
