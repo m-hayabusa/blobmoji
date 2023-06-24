@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="4.2421875"
-     inkscape:cx="51.860037"
+     inkscape:cx="37.127072"
      inkscape:cy="60.110497"
      inkscape:window-width="1366"
      inkscape:window-height="697"
@@ -55,14 +55,15 @@
   <g
      transform="rotate(-45 52.134 68.915)"
      id="g40"
-     fill="#fff">
+     fill="#fff"
+     style="fill:#ffffff">
     <path
        d="M106.57 79.41c-1.38-2.21-2.93-6.97-3.17-8.49-.41-2.61-1.5-7.34-2.3-11.3-.22-1.07-.2-2.56 1.15-2.63 1.08-.03 2.77.61 3.76.95 2.92 1 5.98 2.69 8.51 4.4 4.62 3.17 7.76 8.25 7.14 13.99-.47 4.24-4.45 7.04-8.05 6.87-2.6-.1-5.76-1.73-7.04-3.79z"
        id="path36"
-       style="fill:#b2ebf2;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1" />
     <path
        d="M21.43 79.41c1.38-2.21 2.93-6.97 3.17-8.49.41-2.61 1.5-7.34 2.3-11.3.22-1.07.2-2.56-1.15-2.63-1.08-.03-2.77.61-3.76.95-2.92 1-5.98 2.69-8.51 4.4-4.62 3.17-7.76 8.25-7.14 13.99.47 4.24 4.45 7.04 8.05 6.87 2.6-.1 5.76-1.73 7.04-3.79z"
        id="path38"
-       style="fill:#b2ebf2;fill-opacity:1" />
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
 </svg>
