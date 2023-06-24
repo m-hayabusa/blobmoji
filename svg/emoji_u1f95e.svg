@@ -9,7 +9,7 @@
    viewBox="0 0 128 128"
    style="enable-background:new 0 0 128 128;"
    xml:space="preserve"
-   sodipodi:docname="emoji_u1f95e.svg"
+   sodipodi:docname="Emoji_u1f95e.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,9 +25,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
-   inkscape:zoom="1"
-   inkscape:cx="-28"
-   inkscape:cy="143"
+   inkscape:zoom="4"
+   inkscape:cx="61.5"
+   inkscape:cy="73"
    inkscape:window-width="1366"
    inkscape:window-height="697"
    inkscape:window-x="-8"
@@ -35,6 +35,15 @@
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_3" />
 <path
+   d="m 126.67099,95.51 c 0,11.5 -19.17,25.33 -62.33,25.33 -49.42,0 -62.3299998,-13.83 -62.3299998,-25.33"
+   style="fill:#a4b5be"
+   id="path22863" /><ellipse
+   cx="64.340988"
+   cy="95.040001"
+   rx="62.330002"
+   ry="19.879999"
+   style="fill:#e3e3e3;fill-opacity:1"
+   id="ellipse22865" /><path
    style="fill:#D17020;"
    d="M87.7,110.45c0,0-28.85,4.11-29.55,5.05c-0.6,0.79-1.12,1.46,1.92,4.12  c2.84,2.48,14.05,10.1,37.68,2.95c13.66-4.13,20.21-17.15,18.02-20.86s-5.68-2.4-5.68-2.4L87.7,110.45z"
    id="path14828" />
