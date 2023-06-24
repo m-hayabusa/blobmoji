@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.9996796"
-     inkscape:cx="86.17587"
-     inkscape:cy="65.006942"
+     inkscape:zoom="4.2421876"
+     inkscape:cx="71.543277"
+     inkscape:cy="73.075505"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -52,29 +52,16 @@
        fill="#2f2f2f"
        id="ellipse27924" />
   </g>
-  <g
-     id="g8681">
-    <path
-       d="M 95,99.43 H 33 c -7.7,0 -14,-6.3 -14,-14 0,-7.7 6.3,-14 14,-14 h 62 c 7.7,0 14,6.3 14,14 0,7.7 -6.3,14 -14,14 z"
-       fill="#ffffff"
-       id="path27926" />
-    <g
-       fill="#838383"
-       id="g27932"
-       style="fill:#2f2f2f;fill-opacity:1"
-       transform="translate(0,-2.17)">
-      <path
-         d="m 47.44,75.17 h 3.12 v 25 h -3.12 z m -15,0 h 3.12 v 25 h -3.12 z m 60.01,0 h 3.12 v 25 h -3.12 z m -15.01,0 h 3.12 v 25 h -3.12 z m -15,0 h 3.12 v 25 h -3.12 z"
-         id="path27928"
-         style="fill:#2f2f2f;fill-opacity:1" />
-      <path
-         d="m 20.49,86.04 h 87.01 v 3.12 H 20.49 Z"
-         id="path27930"
-         style="fill:#2f2f2f;fill-opacity:1" />
-    </g>
-    <path
-       d="m 95,75.43 c 5.51,0 10,4.49 10,10 0,5.51 -4.49,10 -10,10 H 33 c -5.51,0 -10,-4.49 -10,-10 0,-5.51 4.49,-10 10,-10 h 62 m 0,-4 H 33 c -7.7,0 -14,6.3 -14,14 0,7.7 6.3,14 14,14 h 62 c 7.7,0 14,-6.3 14,-14 0,-7.7 -6.3,-14 -14,-14 z"
-       fill="#2f2f2f"
-       id="path27934" />
-  </g>
+  <path
+     d="M 95,99.43 H 33 c -7.7,0 -14,-6.3 -14,-14 0,-7.7 6.3,-14 14,-14 h 62 c 7.7,0 14,6.3 14,14 0,7.7 -6.3,14 -14,14 z"
+     fill="#ffffff"
+     id="path27926" />
+  <path
+     id="path41416"
+     style="color:#000000;clip-rule:nonzero;fill:#e6e6e6;fill-rule:nonzero;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;-inkscape-stroke:none"
+     d="M 19.177734 83.314453 C 19.071428 84.006422 19 84.709188 19 85.429688 C 19 86.150849 19.071236 86.8543 19.177734 87.546875 L 108.82227 87.546875 C 108.92876 86.8543 109 86.150849 109 85.429688 C 109 84.709188 108.92857 84.006422 108.82227 83.314453 L 19.177734 83.314453 z " />
+  <path
+     id="path42688"
+     style="color:#000000;clip-rule:nonzero;fill:#e6e6e6;fill-rule:nonzero;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2;-inkscape-stroke:none"
+     d="M 37.839844 71.429688 L 37.839844 99.429688 L 42.072266 99.429688 L 42.072266 71.429688 L 37.839844 71.429688 z M 61.882812 71.429688 L 61.882812 99.429688 L 66.115234 99.429688 L 66.115234 71.429688 L 61.882812 71.429688 z M 85.927734 71.429688 L 85.927734 99.429688 L 90.160156 99.429688 L 90.160156 71.429688 L 85.927734 71.429688 z " />
 </svg>

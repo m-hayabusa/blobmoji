@@ -22,8 +22,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.9996795"
-     inkscape:cx="47.505074"
-     inkscape:cy="70.674216"
+     inkscape:cx="26.502831"
+     inkscape:cy="70.674217"
      inkscape:window-width="1366"
      inkscape:window-height="697"
      inkscape:window-x="-8"
@@ -31,29 +31,27 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg586" />
   <defs
-     id="defs576"><linearGradient
-   id="a">
-  <stop
-     offset="0"
-     stop-color="#fc451b"
-     id="stop570" />
-  <stop
-     offset="1"
-     stop-color="#fcc21b"
-     id="stop572" />
-</linearGradient>
-<linearGradient
-   xlink:href="#a"
-   id="b"
-   x1="64.22"
-   y1="9.62"
-   x2="64.22"
-   y2="118.5"
-   gradientUnits="userSpaceOnUse" />
-
-        
-        
-    </defs>
+     id="defs576">
+    <linearGradient
+       id="a">
+      <stop
+         offset="0"
+         stop-color="#fc451b"
+         id="stop570" />
+      <stop
+         offset="1"
+         stop-color="#fcc21b"
+         id="stop572" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#a"
+       id="b"
+       x1="64.22"
+       y1="9.62"
+       x2="64.22"
+       y2="118.5"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <path
      d="M64.22 9.62C1.81 9.62.34 79.58.34 93.42c0 13.86 28.59 25.08 63.88 25.08 35.28 0 63.88-11.22 63.88-25.08 0-13.84-1.48-83.8-63.88-83.8z"
      fill="url(#b)"
@@ -67,7 +65,7 @@
      d="M119.19 68.66c-1.68 4.5-5.13 6.96-7.79 7.39-2.99.48-5.52-.31-7.14-2.22-2.05-2.42-2.34-6.23-.84-10.73 2.73-8.09 3.69-22.88 3.71-23.02.04-.57.39-1.05.94-1.21.53-.19 1.11 0 1.48.43 12.37 14.92 11.36 24.8 9.64 29.36z"
      fill="#fff"
      id="path584"
-     style="fill:#b2ebf2;fill-opacity:1" />
+     style="fill:#ffffff;fill-opacity:1" />
   <path
      id="path4296"
      style="clip-rule:evenodd;fill:#2f2f2f;fill-rule:nonzero;stroke-linejoin:round;stroke-miterlimit:2"
