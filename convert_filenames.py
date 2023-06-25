@@ -7,12 +7,14 @@ import os, os.path
 import pathlib
 
 # Regexes from emoji_builder
+# These first regexes are not used at the moment
 hex_sequence = r"[a-fA-F0-9]{1,8}"
 range_regex = r"(?P<range>(?P<range_start>{hex})\.\.(?P<range_end>{hex}))".format(hex = hex_sequence)
 sequence_regex = r"(?P<sequence>({hex})(\s+({hex}))*)".format(hex = hex_sequence)
 emoji_regex = r"(?P<codepoints>{}|{})".format(range_regex, sequence_regex)
 emoji_kind_regex = r"(?P<kind>[A-Za-z_\-]+)"
 data_regex = r"^{}\s*;\s*{}\s*(;(?P<name>.*)\s*)?(#.*)?$".format(emoji_regex, emoji_kind_regex)
+
 emoji_sequence_space_regex = r"(([A-F0-9a-f]{1,8})(\s+([A-F0-9a-f]{1,8}))*)"
 emoji_status_regex = r"(component|fully-qualified|minimally-qualified|unqualified)"
 emoji_name_regex = r"(.*)?\s*E(\d+.\d+) (.+)"
@@ -92,8 +94,8 @@ def main(directory: PathLike, emoji_test_txt: PathLike, dry_run: bool = False):
 parser = argparse.ArgumentParser(
     description="Replaces emoji files with rich names by their emoji_u<codepoint> format"
 )
-parser.add_argument("directory", type=pathlib.PurePath, help="The directory in which to replace the file names", default=".")
-parser.add_argument("emoji_test", type=pathlib.PurePath, help="The emoji-test.txt file to use for the translation", default="../emoji_test.txt")
+parser.add_argument("--directory", type=pathlib.PurePath, help="The directory in which to replace the file names", default=".")
+parser.add_argument("--emoji_test", type=pathlib.PurePath, help="The emoji-test.txt file to use for the translation", default="../emoji_test.txt")
 parser.add_argument("--dry-run", action="store_true", help="does not perform any actual renaming")
 
 if __name__ == "__main__":
