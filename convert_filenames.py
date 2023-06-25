@@ -94,8 +94,8 @@ def main(directory: PathLike, emoji_test_txt: PathLike, dry_run: bool = False):
 parser = argparse.ArgumentParser(
     description="Replaces emoji files with rich names by their emoji_u<codepoint> format"
 )
-parser.add_argument("--directory", type=pathlib.PurePath, help="The directory in which to replace the file names", default=".")
-parser.add_argument("--emoji_test", type=pathlib.PurePath, help="The emoji-test.txt file to use for the translation", default="../emoji_test.txt")
+parser.add_argument("--directory", type=pathlib.PurePath, help="The directory in which to replace the file names", default="./svg")
+parser.add_argument("--emoji_test", type=pathlib.PurePath, help="The emoji-test.txt file to use for the translation", default="./emoji_test.txt")
 parser.add_argument("--dry-run", action="store_true", help="does not perform any actual renaming")
 
 if __name__ == "__main__":
