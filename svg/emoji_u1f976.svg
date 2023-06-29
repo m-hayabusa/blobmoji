@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <rect id="path17" x="0.06" y="0" width="127.99" height="128" style="fill:none;fill-rule:nonzero;"/>
+    <rect id="path17" x="0.06" y="0" width="127.99" height="128" style="fill:none;"/>
     <path id="path19" d="M63.89,9.64C1.58,9.64 0.1,79.5 0.1,93.33C0.1,107.16 28.66,118.36 63.89,118.36C99.13,118.36 127.68,107.15 127.68,93.33C127.68,79.5 126.21,9.64 63.89,9.64Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
     <circle id="circle57" cx="101.268" cy="7.897" r="1.186" style="fill:white;"/>
     <circle id="circle63" cx="121.421" cy="6.116" r="1.186" style="fill:white;"/>
@@ -11,12 +11,14 @@
             <path d="M95.622,105.566L33.622,105.566C25.922,105.566 19.622,99.266 19.622,91.566C19.622,83.866 25.922,77.566 33.622,77.566L95.622,77.566C103.322,77.566 109.622,83.866 109.622,91.566C109.622,99.266 103.322,105.566 95.622,105.566Z" style="fill:white;fill-rule:nonzero;"/>
         </g>
         <g id="g14" transform="matrix(1,0,0,1,0.622369,3.96602)">
-            <clipPath id="_clip2">
-                <path d="M91.524,100.03L36.476,100.03C29.64,100.03 24.046,94.436 24.046,87.6C24.046,80.763 29.64,75.17 36.476,75.17L91.524,75.17C98.36,75.17 103.954,80.763 103.954,87.6C103.954,94.436 98.36,100.03 91.524,100.03Z" clip-rule="nonzero"/>
-            </clipPath>
-            <g clip-path="url(#_clip2)">
-                <path id="path10" d="M47.44,75.17L50.56,75.17L50.56,100.17L47.44,100.17L47.44,75.17ZM32.44,75.17L35.56,75.17L35.56,100.17L32.44,100.17L32.44,75.17ZM92.45,75.17L95.57,75.17L95.57,100.17L92.45,100.17L92.45,75.17ZM77.44,75.17L80.56,75.17L80.56,100.17L77.44,100.17L77.44,75.17ZM62.44,75.17L65.56,75.17L65.56,100.17L62.44,100.17L62.44,75.17Z" style="fill:rgb(97,97,97);fill-rule:nonzero;"/>
-                <rect id="path12" x="20.49" y="86.04" width="87.01" height="3.12" style="fill:rgb(66,66,66);fill-rule:nonzero;"/>
+            <g>
+                <clipPath id="_clip2">
+                    <path d="M91.524,100.03L36.476,100.03C29.64,100.03 24.046,94.436 24.046,87.6C24.046,80.763 29.64,75.17 36.476,75.17L91.524,75.17C98.36,75.17 103.954,80.763 103.954,87.6C103.954,94.436 98.36,100.03 91.524,100.03Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <path id="path10" d="M47.44,75.17L50.56,75.17L50.56,100.17L47.44,100.17L47.44,75.17ZM32.44,75.17L35.56,75.17L35.56,100.17L32.44,100.17L32.44,75.17ZM92.45,75.17L95.57,75.17L95.57,100.17L92.45,100.17L92.45,75.17ZM77.44,75.17L80.56,75.17L80.56,100.17L77.44,100.17L77.44,75.17ZM62.44,75.17L65.56,75.17L65.56,100.17L62.44,100.17L62.44,75.17Z" style="fill:rgb(97,97,97);fill-rule:nonzero;"/>
+                    <rect id="path12" x="20.49" y="86.04" width="87.01" height="3.12" style="fill:rgb(66,66,66);"/>
+                </g>
             </g>
         </g>
     </g>
@@ -43,6 +45,6 @@
         <path id="path16-5-8" d="M66.24,88.72C67.07,87.25 68.68,86.59 69.83,87.24C70.98,87.89 71.24,89.61 70.41,91.08L61.77,106.37C60.94,107.84 59.33,108.51 58.18,107.85C57.03,107.2 56.77,105.48 57.6,104.01L66.24,88.72Z" style="fill:rgb(212,233,247);fill-rule:nonzero;"/>
     </g>
     <defs>
-        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.65718e-15,108.72,-108.72,6.65718e-15,63.89,9.64)"><stop offset="0" style="stop-color:rgb(98,205,234);stop-opacity:1"/><stop offset="0.5" style="stop-color:rgb(138,213,197);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,238,88);stop-opacity:1"/></linearGradient>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(6.65718e-15,108.72,-108.72,6.65718e-15,63.89,9.64)"><stop offset="0" style="stop-color:rgb(29,157,219);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(255,238,88);stop-opacity:1"/></linearGradient>
     </defs>
 </svg>
