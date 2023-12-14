@@ -50,7 +50,10 @@ Tools and most image resources are under the [Apache license, version 2.0](./LIC
 Flag images under third_party/region-flags are in the public domain or
 otherwise exempt from copyright ([more info](third_party/region-flags/LICENSE)).
 
-This license also applies to this repository.
+This license also applies to this repository.  
+
+*In compliance with the [APACHE-2.0](https://opensource.org/licenses/Apache-2.0) license: I declare that this version of the program contains my modifications, which can be seen through the usual "git" mechanism. Additionally, [`MODIFIED.md`](MODIFIED.md) contains an overview of all files that have been derived/modified/copied from either the old ("Blob") Noto Color Emoji set or from newer versions. This includes no changes at all, color changes, added/removed elements or modified elements (i.e., changes of SVG paths).*
+
 
 # Contributing
 

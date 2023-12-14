@@ -3,7 +3,7 @@ FROM ghcr.io/c1710/emoji_builder
 COPY svg ./svg
 COPY third_party/region-flags/svg ./flags
 COPY emoji_aliases.txt NotoColorEmoji.tmpl.ttx.tmpl Blobmoji.gpl ./
-COPY AUTHORS CONTRIBUTORS CHANGES.md LICENSE ./
+COPY AUTHORS_Noto CONTRIBUTORS_Noto CONTRIBUTORS_Blob CHANGES.md MODIFIED.md LICENSE ./
 
 VOLUME /build
 VOLUME /output
